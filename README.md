@@ -1,3 +1,10 @@
+<img width="594" alt="image" src="https://github.com/ashoksrt-248/Api-vue/assets/109223439/2933431e-2f52-4359-93e4-75f3159edc75">
+
+
+
+
+
+
 # api-call-in-vue
 
 ## Project setup
